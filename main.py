@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 TOKEN = "8748738608:AAEdOhMQR_GVvSQm4btNDO-I1YB1WEA3GSs"
-ADMIN = "@x_Jude_x"
+ADMIN = "@x_Jude_xx"
 ADMIN_CHAT_ID = int(os.environ.get("ADMIN_CHAT_ID", "0"))
 VODAFONE_NUMBER = "01036369917"
 USDT_ADDRESS = "0x6b956df953f5395e14144ca4c9286f7855750d54"
